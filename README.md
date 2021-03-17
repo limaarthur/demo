@@ -1,3 +1,3 @@
 # demo
 
-Learnig github
+1. Learnig github
